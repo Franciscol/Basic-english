@@ -10,11 +10,23 @@ Esté proyecto hace referencia a: Pronombres Personales, Posesión, Verbo To Be 
 
 | SUBJECT |   |   |   |   |
 |---|---|---|---|---|
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
+| I |   |   |   |   |
+| You |   |   |   |   |
+| He |   |   |   |   |
+| She |   |   |   |   |
+| It |   |   |   |   |
+| We |   |   |   |   |
+| You |   |   |   |   |
+| They |   |   |   |   |
+
+I
+You
+He
+She
+It
+We
+You
+They
 
 
 I               Me
