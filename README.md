@@ -2,7 +2,7 @@
 Guia Basica de inicio en el aprendizaje del idioma Ingles
 
 ## Content
-Esté proyecto hace referencia a: Pronombres Personales, Posesión, Verbo To Be y Orden de las sentencias gramaticales **Positivo**. **Negativo**. **Pregunta**
+Esté proyecto hace referencia a: Pronombres Personales, Posesión, Verbo To Be, Auxiliares y Orden de las sentencias gramaticales **Positivo**. **Negativo**. **Pregunta**
 
 ## PERSONAL PRONOUNS
 
