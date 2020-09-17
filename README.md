@@ -22,21 +22,22 @@ Esté proyecto hace referencia a: Pronombres Personales, Posesión, Verbo To Be 
 - He loveS her
 - She loves him
 
-POSSESSIVES
-
-ADJECTIVE  COSA   PRONOUN
-
-My         T      Mine
-Your       H      Yours
-His        I      His
-Her        N      Hers
-Its        G      ----
-Our               Ours
-Your              Yours
-Their             Theirs
+## POSSESSIVES
+|  ADJECTIVE |  COSA |  PRONOUN |
+|---|---|---|
+|  My |  T | Mine  |
+|  Your |  H |  Yours |
+|  His |  I |  His |
+|  Her |  N |  Her |
+|  Its |  G |   |
+|  Our |   |  Ours |
+|  Your |   |  Yours |
+|  Their |   |  Theirs |
 
 - This is my flat
 - This flat is mine
+* Cuando la cosa va primero se usan pronombres posesivos y cuando la cosa va despues se usan adjectivos posesivos
+
 
 ## Demo
 If you want to see the demo of this proyect deployed, you can visit [Demo of the proyect](https://anabelisa.co/tips-para-hacer-un-buen-readme-md/)
