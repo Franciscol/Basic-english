@@ -1,9 +1,40 @@
-# Basic-english# README.MD
-Making attractive and usable readme's. 
-This is a short description about the content of my proyect. This text have to be simple and explicit.
+# Basic English
+Guia Basica de inicio en el aprendizaje del idioma Ingles
 
 ## Content
-This proyect has two branches: develop1 and develop2. **develop1** contains the tests of the repositories and **develop2** contains the test of the use cases.
+Esté proyecto hace referencia a: Pronombres Personales, Posesión, Verbo To Be y Orden de las sentencias gramaticales **Positivo**. **Negativo**. **Pregunta**
+
+## PERSONAL PRONOUNS
+
+**SUBJECT        OBJECT**
+
+I               Me
+You             You
+He              Him
+She             Her
+It              It
+We              Us
+You             You
+They            Them
+
+- He loveS her
+- She loves him
+
+POSSESSIVES
+
+ADJECTIVE  COSA   PRONOUN
+
+My         T      Mine
+Your       H      Yours
+His        I      His
+Her        N      Hers
+Its        G      ----
+Our               Ours
+Your              Yours
+Their             Theirs
+
+- This is my flat
+- This flat is mine
 
 ## Demo
 If you want to see the demo of this proyect deployed, you can visit [Demo of the proyect](https://anabelisa.co/tips-para-hacer-un-buen-readme-md/)
