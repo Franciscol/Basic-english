@@ -8,7 +8,7 @@ Esté proyecto hace referencia a: Pronombres Personales, Posesión, Verbo To Be 
 
 **SUBJECT        OBJECT**
 
-|   |   |   |   |   |
+|  **SUBJECT ** |   |   |   |   |
 |---|---|---|---|---|
 |   |   |   |   |   |
 |   |   |   |   |   |
