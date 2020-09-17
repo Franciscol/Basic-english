@@ -6,8 +6,6 @@ Esté proyecto hace referencia a: Pronombres Personales, Posesión, Verbo To Be 
 
 ## PERSONAL PRONOUNS
 
-**SUBJECT        OBJECT**
-
 | SUBJECT | OBJECT  |
 |---|---|
 | I |  Me |
@@ -36,7 +34,7 @@ Esté proyecto hace referencia a: Pronombres Personales, Posesión, Verbo To Be 
 
 - This is my flat
 - This flat is mine
-* Cuando la cosa va primero se usan pronombres posesivos y cuando la cosa va despues se usan adjectivos posesivos
+### Cuando la cosa va primero se usan pronombres posesivos y cuando la cosa va despues se usan adjectivos posesivos
 
 
 ## VERB TO BE
@@ -52,6 +50,36 @@ Esté proyecto hace referencia a: Pronombres Personales, Posesión, Verbo To Be 
 |  They  |  are  |  were  |
 
 - To be right = tener la razon: You are right
+
+## ORDER OF THE SENTENCES
+
+## 1) Positive:
+"S + V + O/C"
+* My wife gave me this pen
+* My wife will give me a pen
+* My wife giveS me much love
+
+## 2) Negative: 
+"S + TO BE/AUX + NOT + VERB + O/C
+a) 
+* I am NOT (I'm not) working/sad/an economist 
+* I was NOT (wasn't) working/sad/an economist
+* I will NOT (won't) be working/sad/an economist
+b) 
+* I do NOT (don't) work
+* I did NOT (didn't) work
+* I will NOT (won't) work
+
+## 3) Question: 
+"Wh + TO BE/AUX + S + V + O/C?"
+a) 
+* Why are you working?
+* Why were you working?
+* Why will you be working?
+b)
+* Where do you work?
+* Where did you work?
+* Where will you work?
 
 
 If you want to see the demo of this proyect deployed, you can visit [Demo of the proyect](https://anabelisa.co/tips-para-hacer-un-buen-readme-md/)
