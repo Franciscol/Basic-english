@@ -61,46 +61,35 @@ Esté proyecto hace referencia a: Pronombres Personales, Posesión, Verbo To Be 
 
 ## 2) Negative: 
 "S + TO BE/AUX + NOT + VERB + O/C
-a) 
+ ### a) 
 * I am NOT (I'm not) working/sad/an economist 
 * I was NOT (wasn't) working/sad/an economist
 * I will NOT (won't) be working/sad/an economist
-b) 
+### b)
 * I do NOT (don't) work
 * I did NOT (didn't) work
 * I will NOT (won't) work
 
 ## 3) Question: 
-"Wh + TO BE/AUX + S + V + O/C?"
-a) 
+"Wh + TO BE/AUX + S + V + O/C ?"
+### a)
 * Why are you working?
 * Why were you working?
 * Why will you be working?
-b)
+### b)
 * Where do you work?
 * Where did you work?
 * Where will you work?
 
+## AUXILIARIES
 
-If you want to see the demo of this proyect deployed, you can visit [Demo of the proyect](https://anabelisa.co/tips-para-hacer-un-buen-readme-md/)
-
-## How to clone
-If you have special requirements, you have to list it step by step.
-* This is the first step
-* Then you have to do this
-* Finally do this
-
-Markdown has enumation and nested lists.
-
-## Installation
-To install and run this proyect just type and execute
-```bash
-npm install
-```
-## Preview
-Insert here an image of the preview if your project has one. The image can be into the project, you have to indicate the route and look like this.
-
-![](/preview.jpg)
-
-### Notes
-If you want to learn all about markdown i recommend you visit the site [markdown.es](https://markdown.es/sintaxis-markdown/)
+* Do (Present) 
+* Does (Present third person: he, she, it)
+* Did (Past: all)
+* Will (Future: all)
+* Can (Poder) 
+* Would (....ria. Future)
+* Could (Pudo: Past - Podria: future)
+* Should (Debe, deberia)
+* May (Poder)
+* Might (Podria)
