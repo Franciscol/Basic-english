@@ -39,7 +39,21 @@ Esté proyecto hace referencia a: Pronombres Personales, Posesión, Verbo To Be 
 * Cuando la cosa va primero se usan pronombres posesivos y cuando la cosa va despues se usan adjectivos posesivos
 
 
-## Demo
+## VERB TO BE
+|  PRON  |  PRES  |  PAST  |
+|---|---|---|
+|  I  |  am  |  was  |
+|  You  |  are  |  were  |
+|  He  |  is  |  was  |
+|  She  |  is  |  was  |
+|  It  |  is  |  was  |
+|  We  |  are  |  were  |
+|  You  |  are  |  were  |
+|  They  |  are  |  were  |
+
+- To be right = tener la razon: You are right
+
+
 If you want to see the demo of this proyect deployed, you can visit [Demo of the proyect](https://anabelisa.co/tips-para-hacer-un-buen-readme-md/)
 
 ## How to clone
