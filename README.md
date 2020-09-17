@@ -8,15 +8,15 @@ Esté proyecto hace referencia a: Pronombres Personales, Posesión, Verbo To Be 
 
 **SUBJECT        OBJECT**
 
-| SUBJECT |  OBJECT |   |   |   |
-|I   |Me- |---|---|---|
-|You |You |   |   |   |
-|He  |Him |   |   |   |
-|She |Her |   |   |   |
-|It  |It  |   |   |   |
-|We  |Us  |   |   |   |
-|You |You |   |   |   |
-|They|Them|   |   |   |
+| SUBJECT |   |   |   |   |
+|I---|---|---|---|---|
+|You |   |   |   |   |
+|He  |   |   |   |   |
+|She |   |   |   |   |
+|It  |   |   |   |   |
+|We  |   |   |   |   |
+|You |   |   |   |   |
+|They|   |   |   |   |
 
 
 I               Me
